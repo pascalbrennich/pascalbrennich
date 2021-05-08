@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pascalbrennich
+- 👀 I’m interested in App developement, .Net developement (ASP.Net, WPF), Python (scraping, server, API)
+- 🌱 I’m currently learning Swift
